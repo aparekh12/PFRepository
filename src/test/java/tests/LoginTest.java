@@ -13,6 +13,8 @@ import tests.base.BaseTest;
 import util.Constants;
 
 
+//This is a Login test
+
 public class LoginTest extends BaseTest{
 	
 	//All test case is child class of BaseTest Class. See above extends key
