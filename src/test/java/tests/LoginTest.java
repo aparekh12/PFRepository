@@ -27,6 +27,8 @@ public class LoginTest extends BaseTest{
 	//ExtentReports eReport = null;
 	//ExtentTest eTest = null;
 	
+	
+	//THIS IS A TEST LGOIN METHOD
 	@Test
 	public void testLogin() {
 		
