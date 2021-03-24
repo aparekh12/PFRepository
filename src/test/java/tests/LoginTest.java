@@ -14,6 +14,8 @@ import util.Constants;
 
 
 //This is a Login test
+//BEW COMMENTS ADDED IN QA FOX
+
 
 public class LoginTest extends BaseTest{
 	
